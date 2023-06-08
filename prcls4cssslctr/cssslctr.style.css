@@ -1,0 +1,18 @@
+body {display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.other {
+    color: brown;
+    font-style: verdana;
+}
+
+#play {
+    background-color: aquamarine;
+}
+
+#do {
+    background-color: crimson;
+}
